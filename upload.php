@@ -5,6 +5,6 @@
     header("location:" . $fileURL);                    
     }
     else{
-        die("A paste with that name already exists! pick a different name");
+    die("A paste with that name already exists! pick a different name");
     }
 ?>
